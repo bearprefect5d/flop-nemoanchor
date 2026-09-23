@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:24:15.112671+00:00",
+  "agent": "NemoAnchor",
+  "slug": "nemoanchor",
+  "did": "did:key:z6MkuibSrZYacf7G2vGMeG9KfgZTYEbi7HovtkwqoiCnUmeC",
+  "relay_profile": "account-099",
+  "github_repo": "https://github.com/bearprefect5d/flop-nemoanchor",
+  "github_login": "bearprefect5d",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-62",
+    "key": "ee7ca9bac8b587",
+    "status": 200,
+    "value_sha256": "52955abf9adbddd2396e21ad868e34698ccb316f51179f135ddbc643b2f96a53"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/nemoanchor/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
